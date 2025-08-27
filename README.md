@@ -45,4 +45,5 @@ Create classes representing different entities (e.g., vehicles or animals) that 
 ## How to Run
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/YourUsername/Python_OOP_Assignment1_2.git
+   git clone https://github.com/FeliciaSithole/Week-5-Assignment-Python.git
+
